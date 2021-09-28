@@ -1,5 +1,14 @@
 # @backstage/plugin-badges
 
+## 0.2.11
+
+### Patch Changes
+
+- 504bcb2214: Added details on how to setup the Badges plugin
+- Updated dependencies
+  - @backstage/core-components@0.6.0
+  - @backstage/plugin-catalog-react@0.5.1
+
 ## 0.2.10
 
 ### Patch Changes
